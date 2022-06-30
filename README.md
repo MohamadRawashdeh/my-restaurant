@@ -2,7 +2,7 @@
 serves food and drinks to customers 😋
 
 # Route 65
-![alt text](https://static.wixstatic.com/media/33b6fc_f42ca8dba66d498bad96d673123875d2~mv2_d_1387_1493_s_2.png/v1/fit/w_2500,h_1330,al_c/33b6fc_f42ca8dba66d498bad96d673123875d2~mv2_d_1387_1493_s_2.png)
+<img src="Assetes/root 65.png" alt="root 65">
 
 **we serve all kind of chicken burgers , angus burger  , fries & soft drinks** 🍔🍟
 
@@ -18,4 +18,6 @@ serves food and drinks to customers 😋
 ENJOY YOUR MEAL 😍😋
 
 wireframe link : https://miro.com/app/board/uXjVOpC77D8=/?share_link_id=196770562557
+
+<img src="Assetes/Wireframe.PNG" alt="wireframe">
 
