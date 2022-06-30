@@ -10,7 +10,7 @@ serves food and drinks to customers 😋
  
 | CKICKEN BURGER | ANGUS BURGER |
 | ----------- | ----------- |
-| - 65chicken burger |- 65 angus burger |
+| - 65 chicken burger |- 65 angus burger |
 | - mexican burger |- BBQ angus burger  |
 | - pella chicken burger | - asian burger 
 
