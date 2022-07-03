@@ -1,7 +1,21 @@
-.myDiv {
-    border: 5px outset red;
-    background-color: lightblue;
-    align-items: left;
+
+.restauran-name {
+  font-family: 'Bebas Neue', cursive;
+  padding: 60px;
+  text-align: center;
+  background: #7E1512;
+  color: white;
+  font-size: 85px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+.logo {
+  position: relative; 
+  top: -240px;
+  height: 240px
   }
 
   h1 {
@@ -10,6 +24,18 @@
 
   .table  {
     color: red;
+    font-family: 'Bebas Neue', cursive;
 
+  }
+
+  .h2 {
+    font-family: 'Bebas Neue', cursive;
+  }
+ 
+  .topnav {
+    font-family: 'Bebas Neue', cursive;
+    color: blue;
+    font-size: 30px;
+    top: -1600px;
   }
   
