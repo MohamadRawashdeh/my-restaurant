@@ -9,23 +9,30 @@
   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
-  margin-left: 0px;
+  margin-left: 230px;
+  padding-left: 0px;
+  
 }
 
 .logo {
-  position: relative; 
-  top: -240px;
-  height: 240px
+  position: absolute; 
+  top: 8px;
+  height: 238px
+  
+    
+  
   }
 
   h1 {
     text-align: center;
+    box-sizing: border-box;
   }
 
   .table  {
     color: red;
     font-family: 'Bebas Neue', cursive;
-
+    border: 1px solid;
+    
   }
 
   .h2 {
@@ -37,5 +44,25 @@
     color: blue;
     font-size: 30px;
     
+    
+  }
+ 
+
+  .container {
+    position: relative;
+  }
+  
+  .text-block {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    position: absolute;
+    bottom: 760px;
+    right: 0px;
+    background-color: #7E1512;
+    color: rgb(255, 255, 255);
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
   }
   
