@@ -2,7 +2,7 @@
 serves food and drinks to customers 😋
 
 # Route 65
-<img src="Assetes/root 65.png" alt="root 65">
+<img src="Assetes/Route 65.png" alt="route 65">
 
 **we serve all kind of chicken burgers , angus burger  , fries & soft drinks** 🍔🍟
 
